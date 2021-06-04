@@ -1,0 +1,8 @@
+plotnine >= 0.4
+altair >= 3.2
+plotly == 4.9
+cufflinks >= 0.17
+seaborn
+vega_datasets
+markdown
+
