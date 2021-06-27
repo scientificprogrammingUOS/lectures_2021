@@ -1,0 +1,21 @@
+#Expyriment 0.10.0 (Python 3.6.13), .xpd-file, coding: UTF-8
+#date: Sun Jun 27 2021 13:10:01
+#--EXPERIMENT INFO
+#e mainfile: ipykernel_launcher.py
+#e sha1: None
+#e modules: 
+#e Experiment: My Experiment
+#e no between subject factors
+#e Block 0: Green Stimuli
+#e     block factors: Color = green
+#e     n trials: 2
+#e     trial factors: Position = [left, right]
+#e                    
+#e Block 1: Red Stimuli
+#e     block factors: Color = red
+#e     n trials: 2
+#e     trial factors: Position = [left, right]
+#e                    
+#--SUBJECT INFO
+#s id: 1
+subject_id,

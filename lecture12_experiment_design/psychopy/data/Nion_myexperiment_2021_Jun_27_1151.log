@@ -1,0 +1,12 @@
+6.0471 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([255, 255, 255]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f254d4a0ef0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f25449517b8>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 240.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.0473 	EXP 	window1: mouseVisible = True
+6.0515 	EXP 	Created unnamed GratingStim = GratingStim(__class__=<class 'psychopy.visual.grating.GratingStim'>, autoDraw=False, autoLog=True, blendmode='avg', color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, interpolate=False, mask='none', maskParams=None, name='unnamed GratingStim', opacity=1, ori=0.0, phase=array([0., 0.]), pos=array([0., 0.]), rgbPedestal=array([0., 0., 0.]), sf=array([0., 0.]), size=array([0.015, 0.015]), tex='sin', texRes=128, units='norm', win=Window(...))
+6.0582 	EXP 	Created unnamed GratingStim = GratingStim(__class__=<class 'psychopy.visual.grating.GratingStim'>, autoDraw=False, autoLog=True, blendmode='avg', color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, interpolate=False, mask='circle', maskParams=None, name='unnamed GratingStim', opacity=1, ori=0.0, phase=array([0., 0.]), pos=array([0., 0.]), rgbPedestal=array([0., 0., 0.]), sf=array([3., 3.]), size=array([0.2, 0.2]), tex='sin', texRes=128, units='norm', win=Window(...))
+6.0583 	EXP 	Added new global key event: quit
+6.0589 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+6.2288 	EXP 	New trial (rep=0, index=0): -1
+6.2359 	EXP 	unnamed GratingStim: pos = array([-1.,  0.])
+6.2359 	EXP 	unnamed GratingStim: tex = 'sin'
+6.2359 	EXP 	unnamed GratingStim: tex = 'sin'
+7.6859 	DATA 	Keypress: space
+7.6917 	EXP 	window1: mouseVisible = True

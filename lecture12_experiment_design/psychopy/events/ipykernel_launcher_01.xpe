@@ -1,0 +1,21 @@
+#Expyriment 0.10.0 (Python 3.6.13), .xpe-file, coding: UTF-8
+#date: Sun Jun 27 2021 13:10:01
+#sha1: None
+#modules: 
+#display: size=(800, 600), window_mode=True, open_gl=2
+#os: uname_result(system='Linux', node='nion-ThinkPad-E470', release='5.4.0-77-generic', version='#86~18.04.1-Ubuntu SMP Fri Jun 18 01:23:22 UTC 2021', machine='x86_64', processor='x86_64')
+Time,Type,Event,Value,Detail,Detail2
+1090,design,log,
+#design: #exp: My Experiment
+#design: block_cnt,block_id,block_Color,trial_cnt,trial_id,Position
+#design: 0,0,green,0,0,left
+#design: 0,0,green,1,1,right
+#design: 1,1,red,0,0,left
+#design: 1,1,red,1,1,right
+1090,design,logged,
+1090,Experiment,started
+1093,Stimulus,presented,0
+2094,Stimulus,presented,1
+3095,Stimulus,presented,2
+4096,Stimulus,presented,3
+5096,Experiment,ended

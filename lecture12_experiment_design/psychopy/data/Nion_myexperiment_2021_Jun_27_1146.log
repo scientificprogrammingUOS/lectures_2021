@@ -1,0 +1,24 @@
+13.5614 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([255, 255, 255]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f2f808a6e80>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f2f78553748>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 240.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, units='norm', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+13.5615 	EXP 	window1: mouseVisible = True
+13.5672 	EXP 	Created unnamed GratingStim = GratingStim(__class__=<class 'psychopy.visual.grating.GratingStim'>, autoDraw=False, autoLog=True, blendmode='avg', color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, interpolate=False, mask='none', maskParams=None, name='unnamed GratingStim', opacity=1, ori=0.0, phase=array([0., 0.]), pos=array([0., 0.]), rgbPedestal=array([0., 0., 0.]), sf=array([0., 0.]), size=array([0.015, 0.015]), tex='sin', texRes=128, units='norm', win=Window(...))
+13.5717 	EXP 	Created unnamed GratingStim = GratingStim(__class__=<class 'psychopy.visual.grating.GratingStim'>, autoDraw=False, autoLog=True, blendmode='avg', color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, interpolate=False, mask='circle', maskParams=None, name='unnamed GratingStim', opacity=1, ori=0.0, phase=array([0., 0.]), pos=array([0., 0.]), rgbPedestal=array([0., 0., 0.]), sf=array([3., 3.]), size=array([0.2, 0.2]), tex='sin', texRes=128, units='norm', win=Window(...))
+13.5718 	EXP 	Added new global key event: quit
+13.5723 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+13.6997 	EXP 	New trial (rep=0, index=0): -1
+13.7050 	EXP 	unnamed GratingStim: pos = array([-1.,  0.])
+13.7050 	EXP 	unnamed GratingStim: tex = 'sin'
+13.7050 	EXP 	unnamed GratingStim: tex = 'sin'
+14.7565 	DATA 	Keypress: k
+14.7571 	EXP 	New trial (rep=0, index=1): -0.5
+14.7591 	EXP 	unnamed GratingStim: pos = array([-0.5,  0. ])
+15.3281 	DATA 	Keypress: a
+15.3286 	EXP 	New trial (rep=0, index=2): 0
+15.3303 	EXP 	unnamed GratingStim: pos = array([0., 0.])
+15.8125 	DATA 	Keypress: n
+15.8129 	EXP 	New trial (rep=0, index=3): 0.5
+15.8147 	EXP 	unnamed GratingStim: pos = array([0.5, 0. ])
+16.2610 	DATA 	Keypress: d
+16.2615 	EXP 	New trial (rep=0, index=4): 1
+16.2633 	EXP 	unnamed GratingStim: pos = array([1., 0.])
+16.7961 	DATA 	Keypress: k
+16.8012 	EXP 	window1: mouseVisible = True

@@ -1,0 +1,25 @@
+#Expyriment 0.10.0 (Python 3.6.13), .xpd-file, coding: UTF-8
+#date: Sun Jun 27 2021 13:29:42
+#--EXPERIMENT INFO
+#e mainfile: ipykernel_launcher.py
+#e sha1: None
+#e modules: 
+#e Experiment: Simon Task
+#e between subject factors (permutation type: latin square)
+#e     TaskOrder = [left=green first, left=red first]
+#e Block 0: unnamed
+#e     block factors: Mapping = left=green
+#e     n trials: 8
+#e     trial factors: Position = [left, right]
+#e                    Colour = [green, red]
+#e                    
+#e Block 1: unnamed
+#e     block factors: Mapping = left=red
+#e     n trials: 8
+#e     trial factors: Position = [left, right]
+#e                    Colour = [green, red]
+#e                    
+#--SUBJECT INFO
+#s id: 4
+#s TaskOrder = left=red first
+subject_id,
